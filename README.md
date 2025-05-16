@@ -98,6 +98,19 @@ Deux modèles prédictifs ont été entraînés et comparés :
 
 ---
 
+## ⚙️ Base de données
+
+anes_db.csv, le jeu de données de base est disponible au lien ci-dessous (étant trop volumineux pour github) :
+https://filex-ng.univ-paris1.fr/get?id=a795328a-0944-4ddb-a79b-2dce8014ea05
+
+La source d'origine de la base de données ainsi que les codebooks permettant de déchiffrer la base est le suivant :
+https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/
+
+La vidéo de démonstration de l'utilisation de la web app est disponible au lien ci-dessous : 
+https://filex-ng.univ-paris1.fr/get?id=1453791e-8580-4767-8a5c-0c8e1d324385
+
+---
+
 ## 📁 Structure du projet
 
 ```
@@ -111,14 +124,8 @@ Deux modèles prédictifs ont été entraînés et comparés :
 ├── data & training/codebook_app.pdf            # Document permettant de décoder la base de données
 ├── data & training/codebook_var.pdf            # Document n°2 permettant de décoder la base de données
 ├── data & training/data_exploration.ipynb    # Notebook ayant servi à l'entraînement
-├── vote_intention_final.csv    # Jeu de données nettoyé
-└── data & training/anes_db.csv                 # Jeu de données de base
+└── vote_intention_final.csv    # Jeu de données nettoyé
 
-anes_db.csv, le jeu de données de base est disponible au lien ci-dessous (étant trop volumineux pour github) :
-https://filex-ng.univ-paris1.fr/get?id=a795328a-0944-4ddb-a79b-2dce8014ea05
-
-La source d'origine de la base de données ainsi que les codebooks permettant de déchiffrer la base est le suivant :
-https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/
 
 ---
 
@@ -127,8 +134,6 @@ https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/
 - Page d’accueil :
   > ![Page de prédiction](assets/screenshot1.png)
 
-La vidéo de démonstration de l'utilisation de la web app est disponible au lien ci-dessous : 
-https://filex-ng.univ-paris1.fr/get?id=1453791e-8580-4767-8a5c-0c8e1d324385
 
 ---
 
