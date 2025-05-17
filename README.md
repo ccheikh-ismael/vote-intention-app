@@ -30,10 +30,10 @@ Cette WebApp a été développée dans le cadre d’un **projet universitaire en
 ### 🎯 Utilité de la probabilité de vote
 
 La probabilité de vote estimée par le modèle peut être utilisée à plusieurs fins :
-	•	Ciblage dans des campagnes de sensibilisation électorale, en identifiant les groupes les moins susceptibles de voter.
-	•	Outil pédagogique, pour faire réfléchir l’utilisateur à l’impact de son profil sur sa participation.
-	•	Analyse sociologique, en étudiant les liens entre variables démographiques et comportement électoral.
-	•	Simulation comportementale, pour anticiper des taux de participation selon différents profils.
+- Ciblage dans des campagnes de sensibilisation électorale, en identifiant les groupes les moins susceptibles de voter ;
+- Outil pédagogique, pour faire réfléchir l’utilisateur à l’impact de son profil sur sa participation ;
+- Analyse sociologique, en étudiant les liens entre variables démographiques et comportement électoral ;
+- Simulation comportementale, pour anticiper des taux de participation selon différents profils.
 
 --- 
 
