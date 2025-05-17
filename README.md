@@ -136,7 +136,7 @@ https://filex-ng.univ-paris1.fr/get?id=1453791e-8580-4767-8a5c-0c8e1d324385
 ├── data & training/data_exploration.ipynb    # Notebook ayant servi à l'entraînement
 └── vote_intention_final.csv    # Jeu de données nettoyé
 
-
+```
 ---
 
 ## 📸 Aperçu
